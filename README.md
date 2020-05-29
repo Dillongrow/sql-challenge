@@ -30,8 +30,3 @@ Inspected the CSVs and sketched out an ERD of the tables.
 7. Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
-
-
-### Copyright/Resources
-
-Trilogy Education Services © 2019. All Rights Reserved.
